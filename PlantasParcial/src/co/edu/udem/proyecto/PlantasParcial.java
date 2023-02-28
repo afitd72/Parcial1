@@ -4,6 +4,8 @@
  */
 package co.edu.udem.proyecto;
 
+import co.edu.udem.models.Naranjas;
+
 /**
  *
  * @author b12s309
@@ -15,6 +17,10 @@ public class PlantasParcial {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Naranjas newNaran = new Naranjas();
+        
+        
+        
     }
     
 }
